@@ -1,0 +1,1 @@
+os.system("start " + name)
